@@ -43,8 +43,7 @@
 
 📊 My Stats :
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayronvillanea&show_icons=true&theme=radical)
-    
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bayronvillanea&theme=onedark)](https://git.io/streak-stats)
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayronvillanea&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
