@@ -1,17 +1,10 @@
 
 <div id="header" align="center">
         <h1 align="center">Hi 👋, I'm Bayron Villanea</h1>
-        <h3 align="center">I am a passionate young man
-            technology, self-taught and focused
-            in continuous improvement both at the level
-            personal as professional.
-            I am currently studying
-            software engineering degree and
-            My goal is to increase my
-            knowledge in that area and
-            find a company that
-            provide the opportunity to learn
-            of their good practices.</h3>
+        <h3 align="center">Currently student of Software engineering.<br/>
+I am passionate about web development and that's why every day I try to develop my skills as front-end.<br/>
+I am an autodidactic person and most of the knowledge I have,  learned it by reading  documents , different courses and platforms.<br/>
+Learning about technology by my own has taught me that all is about setting goals and try to achieve even if I have to start hundreds of times.</h3>
             
   <div id="about" aling="center">
  👨‍💻 About Me :
