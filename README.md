@@ -10,7 +10,7 @@ Learning about technology by my own has taught me that all is about setting goal
  👨‍💻 About Me :
   <h2 aling="center" >
           - 📝 I am currently studying at the university I have been a year </br>
-    - 🌱 I'm currently learning **React.js,TypeScript**
+    - 🌱 I'm currently learning **TypeScript**
      </h2>
     
     
